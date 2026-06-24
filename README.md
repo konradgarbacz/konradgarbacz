@@ -20,13 +20,14 @@ My goal is to transition into a Junior DevOps / System Administrator role.
 ## Tech Stack (Learning / Hands-on Practice)
 
 ### Operating Systems
-- Linux (Ubuntu, Debian – basic system administration)
+- Linux
+- MacOS
+- Windows
 
 ### DevOps Tools
 - Docker (containers, images, basic workflows)
-- Kubernetes (basic deployments, pods, services)
-- Jenkins (basic CI/CD pipelines)
-- Ansible (basic automation)
+- Kubernetes basics
+- AWS Cloud basics
 
 ### Scripting & Programming
 - Bash (basic scripting)
@@ -36,8 +37,7 @@ My goal is to transition into a Junior DevOps / System Administrator role.
 - Git (basic workflows: commit, branch, merge)
 
 ### Monitoring
-- Grafana (basic dashboards and metrics visualization)
-
+- 
 ### Networking
 - TCP/IP, DNS, HTTP/HTTPS, SSH basics
 
@@ -53,9 +53,6 @@ My goal is to transition into a Junior DevOps / System Administrator role.
 
 ### Kubernetes Basics
 - Practiced deployments, services, and scaling workloads using kubectl
-
-### CI/CD Practice (Jenkins)
-- Created simple pipelines for build and deployment workflows
 
 ### Automation Scripts
 - Developed basic Bash and Python scripts for system automation tasks
