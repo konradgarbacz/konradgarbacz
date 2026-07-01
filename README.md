@@ -1,20 +1,18 @@
 # Hi, I'm Konrad 👋
 🌐 [konradgarbacz.xyz](https://konradgarbacz.xyz)
 
-IT enthusiast focused on DevOps, Linux, and infrastructure automation.
+IT professional with a background in technical support, growing into infrastructure, automation, and DevOps practices.
 
-I am currently learning DevOps practices through hands-on labs and structured learning paths, with a strong focus on Linux administration, containerization, CI/CD, and cloud technologies.
-
-My goal is to transition into a Junior DevOps / System Administrator role.
+I'm building hands-on experience through labs and structured learning paths, focusing on Linux administration, containerization, CI/CD, and cloud technologies. I see my IT Support background as a strong foundation for a future move toward System Administration / DevOps.
 
 ---
 
 ## About Me
 
 - Background in IT Support and technical troubleshooting
-- Currently building practical DevOps skills through labs and self-learning
-- Focused on Linux systems, automation, and cloud-native tools
+- Building practical skills in Linux systems, automation, and cloud-native tools
 - Interested in infrastructure, reliability, and CI/CD pipelines
+- Currently expanding knowledge through hands-on labs and self-learning
 
 ---
 
@@ -24,6 +22,15 @@ My goal is to transition into a Junior DevOps / System Administrator role.
 - Linux
 - MacOS
 - Windows
+
+### IT Support & Service Desk (Professional Experience)
+
+- Active Directory (user account & access management)
+- ServiceNow (incident management, SLA compliance)
+- Microsoft Office & Outlook
+- Windows OS troubleshooting
+- Internal business application support & bug reproduction
+- Remote user support (Teams, calls)
 
 ### DevOps Tools
 - Docker (containers, images, basic workflows)
